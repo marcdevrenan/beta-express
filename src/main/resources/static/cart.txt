@@ -1,0 +1,15 @@
+u;fulano;ciclano;fulano@test.com;y
+g;Ruffles;4.99;lorem ipsum;Elma Chips;90.0;2021-07-03 20:33:49
+g;Ruffles;4.99;lorem ipsum;Elma Chips;90.0;2021-07-03 20:33:49
+c;Jacket;88.0;lorem ipsum;Y;GG;Blue
+
+u;carlos;honda;carlos@test.com;y
+g;Ruffles;4.99;lorem ipsum;Elma Chips;90.0;2021-07-03 20:33:49
+g;Trakinas;2.99;lorem ipsum;Pepsico;90.0;2021-07-03 20:33:49
+g;Pringles;7.99;lorem ipsum;;90.0;2021-07-03 20:33:49
+
+u;leeroy;mjenkins;leeroy@test.com;y
+c;Shirt;58.0;lorem ipsum;Y;GG;Red
+c;Trousers;108.0;lorem ipsum;Y;GG;Blue
+c;Socks;8.0;lorem ipsum;Y;M;White
+c;Cap;18.0;lorem ipsum;Y;G;Black
